@@ -20,5 +20,6 @@ int main()
 
     cout << "\nNew!:" << endl;
     student.display();
+
 }
 
